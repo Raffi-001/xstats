@@ -1,0 +1,6 @@
+xstats.settings:
+  title: Xstats
+  description: 'Enable and configure Xstats module'
+  route_name: xstats.settings
+  parent: system.admin_config_system
+  weight: 20

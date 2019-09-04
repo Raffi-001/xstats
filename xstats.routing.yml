@@ -1,0 +1,7 @@
+xstats.settings:
+  path: '/admin/config/system/xstats'
+  defaults:
+    _form: '\Drupal\xstats\Form\XstatsSettingsForm'
+    _title: 'Xstats'
+  requirements:
+    _permission: 'administer statistics'

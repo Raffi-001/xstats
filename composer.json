@@ -1,0 +1,12 @@
+{
+    "name": "root/xstats",
+    "authors": [
+        {
+            "name": "Raffi Hovhannesian",
+            "email": "hovhannesian@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
